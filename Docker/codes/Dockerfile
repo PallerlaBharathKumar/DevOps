@@ -1,4 +1,4 @@
-From redhat/ubi8
+FROM redhat/ubi8
 
 RUN yum -y install python3 && pip3 install Flask
 
