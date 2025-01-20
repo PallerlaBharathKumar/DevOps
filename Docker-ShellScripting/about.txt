@@ -1,0 +1,1 @@
+This directory is a devops project where we have a program which runs a script and uses the script to run docker commands.
